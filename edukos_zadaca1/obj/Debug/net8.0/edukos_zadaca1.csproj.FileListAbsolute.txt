@@ -1,0 +1,14 @@
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\bin\Debug\net8.0\edukos_zadaca1.exe
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\bin\Debug\net8.0\edukos_zadaca1.deps.json
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\bin\Debug\net8.0\edukos_zadaca1.runtimeconfig.json
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\bin\Debug\net8.0\edukos_zadaca1.dll
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\bin\Debug\net8.0\edukos_zadaca1.pdb
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.AssemblyInfoInputs.cache
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.AssemblyInfo.cs
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.csproj.CoreCompileInputs.cache
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.dll
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\refint\edukos_zadaca1.dll
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.pdb
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\edukos_zadaca1.genruntimeconfig.cache
+C:\Users\vode\source\repos\edukos_zadaca1\edukos_zadaca1\obj\Debug\net8.0\ref\edukos_zadaca1.dll
