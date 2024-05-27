@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\RPPOON_LV7\bin\Debug\net8.0\RPPOON_LV7.exe
+C:\Users\Korisnik\source\repos\RPPOON_LV7\bin\Debug\net8.0\RPPOON_LV7.deps.json
+C:\Users\Korisnik\source\repos\RPPOON_LV7\bin\Debug\net8.0\RPPOON_LV7.runtimeconfig.json
+C:\Users\Korisnik\source\repos\RPPOON_LV7\bin\Debug\net8.0\RPPOON_LV7.dll
+C:\Users\Korisnik\source\repos\RPPOON_LV7\bin\Debug\net8.0\RPPOON_LV7.pdb
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.dll
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\refint\RPPOON_LV7.dll
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.pdb
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\RPPOON_LV7.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\RPPOON_LV7\obj\Debug\net8.0\ref\RPPOON_LV7.dll
